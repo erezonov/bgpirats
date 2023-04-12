@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a6ab2b3-cdef-4cb4-9947-f8e967e1987f" name="nasezam.rezonovtech.ru">
+        <fileTransfer rootFolder="/var/www/webdev/data/www/reevol.fvds.ru/laravel" accessType="SFTP" host="reevol.fvds.ru" port="22" sshConfigId="b9d67a18-1c02-4ca2-ae8d-56b1cb7f14fc" sshConfig="webdev@reevol.fvds.ru:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
